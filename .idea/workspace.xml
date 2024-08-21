@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770fa2b9-502d-43d7-b030-de110b990961" name="Changes" comment="all the files for the 13th aug are Added-Homework task">
+    <list default="true" id="770fa2b9-502d-43d7-b030-de110b990961" name="Changes" comment="Task 7 is added">
       <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Task009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
+    "Python.Task009.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.Task7.executor": "Run",
@@ -158,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723885611838</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task 7 is added">
+      <option name="closed" value="true" />
+      <created>1724254267021</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724254267021</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +185,8 @@
     <MESSAGE value="Lab002 file is Added" />
     <MESSAGE value="all the files for the 10th aug are Added" />
     <MESSAGE value="all the files for the 13th aug are Added-Homework task" />
-    <option name="LAST_COMMIT_MESSAGE" value="all the files for the 13th aug are Added-Homework task" />
+    <MESSAGE value="Task 7 is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 7 is added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
