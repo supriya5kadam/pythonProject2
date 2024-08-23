@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770fa2b9-502d-43d7-b030-de110b990961" name="Changes" comment="Task009 is added">
+    <list default="true" id="770fa2b9-502d-43d7-b030-de110b990961" name="Changes" comment="Task0010.py is added">
       <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Task0010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Task0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Task0012.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +55,12 @@
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
+    "Python.Lab006.executor": "Debug",
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
+    "Python.Task0010.executor": "Run",
+    "Python.Task0011.executor": "Run",
+    "Python.Task0012.executor": "Run",
     "Python.Task009.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
@@ -175,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724258980406</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task0010.py is added">
+      <option name="closed" value="true" />
+      <created>1724263183104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724263183104</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +207,8 @@
     <MESSAGE value="all the files for the 13th aug are Added-Homework task" />
     <MESSAGE value="Task 7 is added" />
     <MESSAGE value="Task009 is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task009 is added" />
+    <MESSAGE value="Task0010.py is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task0010.py is added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
